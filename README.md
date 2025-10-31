@@ -74,4 +74,4 @@ Este projeto está sob a licença MIT.
 
 ---
 
-Feito por [Vinicius Bertunho](https://github.com/seu-usuario)
+Feito por [Vinicius Bertunho](https://github.com/vinibertunho)
